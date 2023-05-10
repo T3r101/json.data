@@ -1,0 +1,12 @@
+{
+    "student": [
+        {
+            "name": "Lester Dave S. Bercero",
+            "age": 21,
+            "favoriteQoutes": "Greatness is measured by courage and heart.",
+            "classSection": "BSIT 3B",
+            "classCode": "T230",
+            "buksEmail": "1901101877@student.buksu.edu.ph"
+        }
+     ]
+}
